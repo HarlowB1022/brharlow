@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="trees" targetName="trees_exec" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d6e022a-7f46-44d8-a8a3-50276ae5c3d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/trees_exec.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/trees_exec.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/trees_exec.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/trees_exec.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/trees_exec.dir/src/bst/BinarySearchTree.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/trees_exec.dir/src/bst/BinarySearchTree.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/trees_exec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/trees_exec.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XlT9FvfHMRPWJZ8Jq8D3hWT4om" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RunManager">
+    <configuration name="trees_exec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="trees" TARGET_NAME="trees_exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="trees" RUN_TARGET_NAME="trees_exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d6e022a-7f46-44d8-a8a3-50276ae5c3d0" name="Default Changelist" comment="" />
+      <created>1581619527051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581619527051</updated>
+      <workItem from="1581619528312" duration="2787000" />
+      <workItem from="1581634138975" duration="3864000" />
+      <workItem from="1581644287526" duration="1366000" />
+      <workItem from="1581892576429" duration="2610000" />
+      <workItem from="1581901958598" duration="599000" />
+      <workItem from="1582052757323" duration="548000" />
+      <workItem from="1582054261954" duration="430000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1582054316756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582054316756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1582054453133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582054453133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1582054452210">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582054452210" />
+    <state x="152" y="73" key="DiffContextDialog" timestamp="1582054296293">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="152" y="73" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1582054296293" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1582053299632">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582053299632" />
+    <state x="682" y="324" width="260" height="211" key="Github.ShareDialog" timestamp="1582053265469">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="682" y="324" width="260" height="211" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1582053265469" />
+    <state width="1557" height="274" key="GridCell.Tab.0.bottom" timestamp="1582054695072">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="981" height="222" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1581633770997" />
+    <state width="1557" height="274" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582054695072" />
+    <state width="1557" height="274" key="GridCell.Tab.0.center" timestamp="1582054695072">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="981" height="222" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1581633770997" />
+    <state width="1557" height="274" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582054695072" />
+    <state width="1557" height="274" key="GridCell.Tab.0.left" timestamp="1582054695072">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="981" height="222" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1581633770997" />
+    <state width="1557" height="274" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582054695072" />
+    <state width="1557" height="274" key="GridCell.Tab.0.right" timestamp="1582054695072">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="981" height="222" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1581633770997" />
+    <state width="1557" height="274" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582054695072" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1581644494244">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581644494244" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1581644494244">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1581644494244" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1581644494244">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1581644494244" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1581644494244">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1581644494244" />
+    <state x="599" y="141" key="RollbackChangesDialog" timestamp="1582054663149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="599" y="141" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1582054663149" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1582054466321">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1582054466321" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1582054262282">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582054262282" />
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582054683223">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1582054683223" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581644158816">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1581644158816" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="node" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
