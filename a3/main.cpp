@@ -5,7 +5,7 @@
 using namespace std;
 int main(int argc, char* argv[2]) {
     string f = argv[1];
-    auto *s = new Sudoku();
+    auto *s = new Sudoku(f);
     s->printSudoku();
     return 0;
 }
