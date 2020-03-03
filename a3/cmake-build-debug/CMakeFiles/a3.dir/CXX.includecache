@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/benha/CLionProjects/a3/main.cpp
+iostream
+-
+string
+-
+src/Sudoku.cpp
+C:/Users/benha/CLionProjects/a3/src/Sudoku.cpp
+fstream
+-
+
+C:/Users/benha/CLionProjects/a3/src/Sudoku.cpp
+iostream
+-
+fstream
+-
+string
+-
+
